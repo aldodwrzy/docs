@@ -15,6 +15,7 @@
         "groups": [
           {
             "group": "Getting startes",
+            "tag": "GET",
             "pages": [
               "index",
               "quickstart",
