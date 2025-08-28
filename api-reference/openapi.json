@@ -19,8 +19,8 @@
     }
   ],
   "paths": {
-    "/plants": {
-      "get": {
+    "/lorem": {
+      "post": {
         "description": "Lorem Ipsum",
         "parameters": [
           {
